@@ -1,0 +1,3 @@
+# 📌 What we've learned.
+
+Based on the last lesson, we've learned that there's more in using github, not just to post your project but you can also share your code to your member or to collaborate with them, and you can also use branching without affecting the master branch. Also we've learned on how to create branche, switch between them, these knowledge may be useful especially in group project and for keeping our code organized and safe during coding.
